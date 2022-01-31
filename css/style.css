@@ -4,6 +4,7 @@
 body {
 	text-align: center;
 	font-family: Lato, sans-serif;
+	line-height: 1.6;
 }
 h1 {
 	font-weight: 900;
@@ -16,28 +17,15 @@ h1 {
 	font-size: 20px;
 	line-height: 1.5;
 }
-
-.main-text2 {
-	line-height: 1.6;
-}
-
 .main-text3 {
 	font-weight: bold;
 	font-size: 20px;
 	line-height: 1.5;
 	text-align: center;
 }
-
-.main-text4 {
-	line-height: 1.6;
-}
 span {
 	color: red;
 }
 .main-text5 {
 	line-height: 1.5;
-}
-
-.list {
-	line-height: 1.6;
 }
